@@ -33,7 +33,7 @@ Python Conversion Tool is a file conversion tool that allows users to extract an
 5.	Exported Files Location:
    
      The extracted files will be placed in a folder located at the same folder location of the conversion tool in Exported Files by default.
-     After processing, the tool will zip the exported files into a .zip archive, stored in the same folder location of the conversion tool as Extracted_Files.zip.
+     After processing, the tool will zip the exported files into a .zip archive, stored in the same folder location of the conversion tool as eSTAR ToC Submission.zip.
   	
 6.	Complete the Process:
    
@@ -44,7 +44,11 @@ Python Conversion Tool is a file conversion tool that allows users to extract an
 1.	Windows Security warning: "Windows protected your PC"
    
      Right click on eSTAR_ConversionTool.exe. Select "Properties", "General" tab will show. Check "Unblock" in Attributes.
-   
+
+2. Nothing is showing after double clicking conversion tool, or only a empty window showing.
+
+    The currernt pilot verison conversion tool is known to have a longer response time. We kindly ask for your patience for a minute or two waiting for the File selection dialog to popup. If not, please try to close and open conevrsion tool again.     
+
 3.	Error: "File is open. Please close the document to continue."
    
      This message appears if the selected PDF file is open. Please close the file and run the tool again.
