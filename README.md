@@ -20,6 +20,7 @@ Python Conversion Tool is a file conversion tool that allows users to extract an
 1.	Launch the Tool:
    
      Run the Python app eSTAR_ConversionTool.exe to start the tool.
+  	
   	  The latest release of the tool can be found in "Release" section in the right side panel.
   	
 3.	Select Files:
